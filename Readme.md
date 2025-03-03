@@ -1,5 +1,5 @@
 # Multithreaded Web Server
-
+[Architecture and Learning](https://github.com/PrabeshPP/ThreadServe/blob/master/System%20design.pdf)
 ## Overview
 This project is a high-performance multithreaded web server designed to handle over 1 million requests per minute using a thread pool. The server efficiently manages incoming HTTP requests by distributing them among worker threads, ensuring optimal resource utilization and minimizing response time.
 
@@ -54,4 +54,7 @@ Through this project, I gained a deep understanding of:
 
 ## License
 This project is licensed under the **MIT License**.
+
+
+
 

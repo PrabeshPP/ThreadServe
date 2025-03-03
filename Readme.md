@@ -27,20 +27,20 @@ Through this project, I gained a deep understanding of:
 ## How to Run
 1. Clone the repository:
    ```sh
-   git clone <repository_url>
+   git clone https://github.com/PrabeshPP/ThreadServe
    cd multithreaded-web-server
    ```
 2. Compile the server:
    ```sh
-   javac WebServer.java
+   javac Server.java
    ```
 3. Start the server:
    ```sh
-   java WebServer <port_number>
+   java WebServer 8010
    ```
 4. Test with a web browser or use `curl`:
    ```sh
-   curl http://localhost:<port_number>
+   curl http://localhost:8010
    ```
 
 ## Future Improvements
